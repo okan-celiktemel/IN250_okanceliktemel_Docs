@@ -40,7 +40,7 @@
 
 ### Angenommen, es kommt zu einem Notfall, z. B. einem Feuer. Wenn die Arbeit auf dem Computer nicht mit Git hochgeladen wurde, könnten alle Änderungen verloren gehen. Um dies zu vermeiden, sollten folgende Schritte befolgt werden:
 
-### 1. it Commit: Änderungen lokal speichern. Damit wird ein "Schnappschuss" des aktuellen Stands des Projekts erstellt.
+### 1. Git Commit: Änderungen lokal speichern. Damit wird ein "Schnappschuss" des aktuellen Stands des Projekts erstellt.
 
 ### 2. Git Push: Die lokal gespeicherten Änderungen werden auf GitHub hochgeladen. Dadurch sind die Änderungen auch dann noch verfügbar, wenn der Computer nicht mehr nutzbar ist.
 
